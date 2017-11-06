@@ -1,0 +1,15 @@
+{
+    userId: 1234,
+    chits: [
+        {
+            barcode: "123456",
+            status: null,
+            msg: null
+        },
+        {
+            barcode: "234567",
+            status: null,
+            msg: null
+        }
+    ]
+}
